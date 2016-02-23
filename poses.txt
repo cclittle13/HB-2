@@ -1,0 +1,39 @@
+42|Intention|Child's Pose|2|http://www.rareseeds.com/assets/1/14/DimRegular/crenshaw.jpg|green|1
+2|Intention|Downward Facing Dog|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Ali-Baba-Watermelon-web.jpg|green|1
+3|Intention|Ragdoll|3|http://www.rareseeds.com/assets/1/14/DimThumbnail/Ancient-Watermelon-web.jpg|green|0
+4|Watermelon|Arkansas Black Watermelon|4|http://www.rareseeds.com/assets/1/14/DimThumbnail/Arkansas-Black-Watermelon-web.jpg|black|1
+5|Watermelon|Chris Cross Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/watermelon-criss-cross.jpg|green|0
+6|Watermelon|Congo Watermelon|2|http://www.rareseeds.com/assets/1/14/DimThumbnail/watermelon-congo.jpg|green|1
+7|Watermelon|Crimson Sweet Watermelon|1.75|http://www.rareseeds.com/assets/1/14/DimThumbnail/Crimson-Sweet-Watermelon-web.jpg|green|0
+8|Watermelon|Desert King Watermelon|2|http://www.rareseeds.com/assets/1/14/DimThumbnail/Desert-King-Watermelon-web.jpg|green|1
+9|Watermelon|Dixie Queen Watermelon|2|http://www.rareseeds.com/assets/1/14/DimThumbnail/Dixie-Queen-Watermelon-web.jpg|green|0
+10|Watermelon|Moonbeam Watermon|2.25|http://www.rareseeds.com/assets/1/14/DimThumbnail/new-baker-seal1.jpg|green|1
+11|Watermelon|Fairfax Watermelon|2|http://www.rareseeds.com/assets/1/14/DimThumbnail/Fairfax-Watermelon-web-2.jpg|green|0
+12|Watermelon|Golden Honey Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Golden-Honey-Watermelon-web.jpg|green|1
+13|Watermelon|Golden Midget Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Golden-Midget-Watermelon-web.jpg|gold|0
+14|Watermelon|Hopi Yellow Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Hopi-Yellow-Watermelon-web.jpg|gold|1
+15|Watermelon|Irish Grey Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/watermelon-irish-grey.jpg|green|0
+17|Watermelon|Jubilee Bush Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Jubilee-Bush-Watermelon-web.jpg|green|1
+18|Watermelon|Jubilee Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Jubilee-Watermelon-web.jpg|green|0
+19|Watermelon|Ledmon Watermelon|3|http://www.rareseeds.com/assets/1/14/DimThumbnail/Ledmon-Watermelon-web.jpg|green|1
+20|Watermelon|Malali Watermelon|2|http://www.rareseeds.com/assets/1/14/DimThumbnail/Malali-Watermelon-web.jpg|green|0
+21|Watermelon|Melitopolski Watermelon|3|http://www.rareseeds.com/assets/1/14/DimThumbnail/Melitopolski-Watermelon-web.jpg|green|1
+22|Watermelon|Montenegro Man Melon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/watermelon-montenegro-man.jpg|green|0
+23|Watermelon|Moon and Stars Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Moon-and-Stars-Watermelon-web.jpg|green|0
+24|Watermelon|Navajo Winter Watermelon|3|http://www.rareseeds.com/assets/1/14/DimThumbnail/Navajo-Winter-Watermelon-web.jpg|green|1
+25|Watermelon|Orangeglo Watermelon|2.75|http://www.rareseeds.com/assets/1/14/DimThumbnail/Orange-Glo-watermelon-web.jpg|white|0
+26|Watermelon|Royal Golden Watermelon|2.25|http://www.rareseeds.com/assets/1/14/DimThumbnail/Royal-Golden-Watermelon-web.jpg|gold|1
+27|Watermelon|Scaly Bark Watermelon|4|http://www.rareseeds.com/assets/1/14/DimThumbnail/Scaly-Bark-Watermelon-web-.jpg|green|1
+28|Watermelon|Stone Mountain Watermelon|3|http://www.rareseeds.com/assets/1/14/DimThumbnail/Stone-Mountain-Watermelon-web.jpg|green|0
+29|Watermelon|Sugar Baby Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Sugar-Baby-Watermelon-web.jpg|green|1
+30|Watermelon|Takii Gem Watermelon|2.75|http://www.rareseeds.com/assets/1/14/DimThumbnail/Takii-Gem-Watermelon-web.jpg|green|0
+31|Watermelon|Tendergold Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/watermelon-tendergold.jpg|green|1
+32|Watermelon|Texas Golden Watermelon|2.75|http://www.rareseeds.com/assets/1/14/DimThumbnail/Texas-Golden-2-Watermelon-web.jpg|green|0
+33|Watermelon|Thai Rom Dao Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Thai-Rom-Dao-Watermelon-web.jpg|green|1
+34|Watermelon|Tom Watson Watermelon|2.25|http://www.rareseeds.com/assets/1/14/DimThumbnail/Tom-Watson-Watermelon-web.jpg|green|0
+35|Watermelon|White Wonder Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/White-Wonder-Watermelon-web.jpg|green|1
+36|Watermelon|Wilson's Sweet Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Wilsons-Sweet-Watermelon-web.jpg|green|0
+37|Watermelon|Thai Rom Dao Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Thai-Rom-Dao-Watermelon-web.jpg|green|1
+38|Watermelon|Tom Watson Watermelon|2.25|http://www.rareseeds.com/assets/1/14/DimThumbnail/Tom-Watson-Watermelon-web.jpg|green|0
+39|Watermelon|White Wonder Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/White-Wonder-Watermelon-web.jpg|green|1
+40|Watermelon|Wilson's Sweet Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Wilsons-Sweet-Watermelon-web.jpg|green|0
