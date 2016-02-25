@@ -1,39 +1,59 @@
-42|Intention|Child's Pose|2|http://www.rareseeds.com/assets/1/14/DimRegular/crenshaw.jpg|green|1
-2|Intention|Downward Facing Dog|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Ali-Baba-Watermelon-web.jpg|green|1
-3|Intention|Ragdoll|3|http://www.rareseeds.com/assets/1/14/DimThumbnail/Ancient-Watermelon-web.jpg|green|0
-4|Watermelon|Arkansas Black Watermelon|4|http://www.rareseeds.com/assets/1/14/DimThumbnail/Arkansas-Black-Watermelon-web.jpg|black|1
-5|Watermelon|Chris Cross Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/watermelon-criss-cross.jpg|green|0
-6|Watermelon|Congo Watermelon|2|http://www.rareseeds.com/assets/1/14/DimThumbnail/watermelon-congo.jpg|green|1
-7|Watermelon|Crimson Sweet Watermelon|1.75|http://www.rareseeds.com/assets/1/14/DimThumbnail/Crimson-Sweet-Watermelon-web.jpg|green|0
-8|Watermelon|Desert King Watermelon|2|http://www.rareseeds.com/assets/1/14/DimThumbnail/Desert-King-Watermelon-web.jpg|green|1
-9|Watermelon|Dixie Queen Watermelon|2|http://www.rareseeds.com/assets/1/14/DimThumbnail/Dixie-Queen-Watermelon-web.jpg|green|0
-10|Watermelon|Moonbeam Watermon|2.25|http://www.rareseeds.com/assets/1/14/DimThumbnail/new-baker-seal1.jpg|green|1
-11|Watermelon|Fairfax Watermelon|2|http://www.rareseeds.com/assets/1/14/DimThumbnail/Fairfax-Watermelon-web-2.jpg|green|0
-12|Watermelon|Golden Honey Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Golden-Honey-Watermelon-web.jpg|green|1
-13|Watermelon|Golden Midget Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Golden-Midget-Watermelon-web.jpg|gold|0
-14|Watermelon|Hopi Yellow Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Hopi-Yellow-Watermelon-web.jpg|gold|1
-15|Watermelon|Irish Grey Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/watermelon-irish-grey.jpg|green|0
-17|Watermelon|Jubilee Bush Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Jubilee-Bush-Watermelon-web.jpg|green|1
-18|Watermelon|Jubilee Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Jubilee-Watermelon-web.jpg|green|0
-19|Watermelon|Ledmon Watermelon|3|http://www.rareseeds.com/assets/1/14/DimThumbnail/Ledmon-Watermelon-web.jpg|green|1
-20|Watermelon|Malali Watermelon|2|http://www.rareseeds.com/assets/1/14/DimThumbnail/Malali-Watermelon-web.jpg|green|0
-21|Watermelon|Melitopolski Watermelon|3|http://www.rareseeds.com/assets/1/14/DimThumbnail/Melitopolski-Watermelon-web.jpg|green|1
-22|Watermelon|Montenegro Man Melon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/watermelon-montenegro-man.jpg|green|0
-23|Watermelon|Moon and Stars Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Moon-and-Stars-Watermelon-web.jpg|green|0
-24|Watermelon|Navajo Winter Watermelon|3|http://www.rareseeds.com/assets/1/14/DimThumbnail/Navajo-Winter-Watermelon-web.jpg|green|1
-25|Watermelon|Orangeglo Watermelon|2.75|http://www.rareseeds.com/assets/1/14/DimThumbnail/Orange-Glo-watermelon-web.jpg|white|0
-26|Watermelon|Royal Golden Watermelon|2.25|http://www.rareseeds.com/assets/1/14/DimThumbnail/Royal-Golden-Watermelon-web.jpg|gold|1
-27|Watermelon|Scaly Bark Watermelon|4|http://www.rareseeds.com/assets/1/14/DimThumbnail/Scaly-Bark-Watermelon-web-.jpg|green|1
-28|Watermelon|Stone Mountain Watermelon|3|http://www.rareseeds.com/assets/1/14/DimThumbnail/Stone-Mountain-Watermelon-web.jpg|green|0
-29|Watermelon|Sugar Baby Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Sugar-Baby-Watermelon-web.jpg|green|1
-30|Watermelon|Takii Gem Watermelon|2.75|http://www.rareseeds.com/assets/1/14/DimThumbnail/Takii-Gem-Watermelon-web.jpg|green|0
-31|Watermelon|Tendergold Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/watermelon-tendergold.jpg|green|1
-32|Watermelon|Texas Golden Watermelon|2.75|http://www.rareseeds.com/assets/1/14/DimThumbnail/Texas-Golden-2-Watermelon-web.jpg|green|0
-33|Watermelon|Thai Rom Dao Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Thai-Rom-Dao-Watermelon-web.jpg|green|1
-34|Watermelon|Tom Watson Watermelon|2.25|http://www.rareseeds.com/assets/1/14/DimThumbnail/Tom-Watson-Watermelon-web.jpg|green|0
-35|Watermelon|White Wonder Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/White-Wonder-Watermelon-web.jpg|green|1
-36|Watermelon|Wilson's Sweet Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Wilsons-Sweet-Watermelon-web.jpg|green|0
-37|Watermelon|Thai Rom Dao Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Thai-Rom-Dao-Watermelon-web.jpg|green|1
-38|Watermelon|Tom Watson Watermelon|2.25|http://www.rareseeds.com/assets/1/14/DimThumbnail/Tom-Watson-Watermelon-web.jpg|green|0
-39|Watermelon|White Wonder Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/White-Wonder-Watermelon-web.jpg|green|1
-40|Watermelon|Wilson's Sweet Watermelon|2.5|http://www.rareseeds.com/assets/1/14/DimThumbnail/Wilsons-Sweet-Watermelon-web.jpg|green|0
+
+    # def __init__(self,
+    #              id,
+                   category,
+    #              common_name,
+    #              sanskrit_name,
+    #              breathe,
+    #              image_url,
+    #     
+    #              random,
+    #              ):
+    #     self.id = id
+    #     self.common_name = common_name
+    #     self.sanskrit_name = sanskrit_name
+    #     self.breathe = breathe
+    #     self.image_url = image_url
+    #     self.category = category
+    #     self.random = random
+
+1|Integration|Child's Pose||2|http://www.pocketyoga.com/images/poses/child_traditional.png|green|1
+2|Integration|Downward Facing Dog||2.5|http://www.pocketyoga.com/images/poses/downward_dog.png|green|1
+3|Integration|Ragdoll|3|http://www.pocketyoga.com/images/poses/forward_bend.png|green|0
+4|Intention|Samasthiti|4|http://www.pocketyoga.com/images/poses/chair_prayer.png|black|1
+5|Sun Salutation A|Mountain Pose|2.5|http://www.pocketyoga.com/images/poses/mountain.png|green|0
+6|Sun Salutation A|Standing Forward Fold|2|http://www.pocketyoga.com/images/poses/forward_bend.png|green|1
+7|Sun Salutation A|Halfway Lift|1.75|http://www.pocketyoga.com/images/poses/forward_bend_half_way.png|green|0
+8|Sun Salutation A|Chaturanga Dandasana|2|http://www.pocketyoga.com/images/poses/chair_prayer.png|green|1
+9|Sun Salutation A|Upward Facing Dog|2|http://www.pocketyoga.com/images/poses/upward_dog.png|green|0
+10|Sun Salutation B|Table Pose|2.25|http://www.pocketyoga.com/images/poses/box_neutral.png|green|1
+11|Sun Salutation B|Chair Pose|2|http://www.pocketyoga.com/images/poses/chair.png|green|0
+12|Sun Salutation B|Warrior 2|2.5|http://www.pocketyoga.com/images/poses/warrior_II_R.png|green|1
+13|Sun Salutation B|Extended Side Angle|2.5|http://www.pocketyoga.com/images/poses/warrior_II_forward_arm_forward_R.png|gold|0
+14|Sun Salutation B|Reverse Warrior|2.5|http://www.pocketyoga.com/images/poses/warrior_II_reverse_R.png|gold|1
+15|Core|Reclined Bound Angle Sit-Ups|2.5|http://www.pocketyoga.com/images/poses/supine_bound_angle.png|green|0
+16|Core|Bicycle Sit-Ups|2.5|http://www.pocketyoga.com/images/poses/wind_removing_R.png|green|1
+17|Core|Boat Pose|2.5|http://www.pocketyoga.com/images/poses/boat_full.png|green|0
+18|Crescent Lunge Series|Cresent Lunge|3|http://www.pocketyoga.com/images/poses/lunge_crescent_R.png|green|1
+19|Crescent Lunge Series|Revolved Cresent Lunge|2|http://www.pocketyoga.com/images/poses/lunge_kneeling_twist_R.png|green|0
+20|Crescent Lunge Series|Runner's Lunge|3|http://www.pocketyoga.com/images/poses/lunge_R.png|green|1
+21|Crescent Lunge Series|Side Plank|2.5|hhttp://www.pocketyoga.com/images/poses/plank_side_L.png|green|0
+22|Crescent Lunge Series|Prayer Twist|2.5|http://www.pocketyoga.com/images/poses/chair_twist_R.png|green|0
+23|Crescent Lunge Series|Frog Pose|3|http://www.pocketyoga.com/images/poses/seated_on_heels_hands_on_mat_opened_knees.png|green|1
+24|Crescent Lunge Series|Crow Pose|2.75|http://www.pocketyoga.com/images/poses/crow.png|white|0
+25|Balancing Series|Eagle Pose|2.25|http://www.pocketyoga.com/images/poses/eagle_L.png|gold|1
+26|Balancing Series|Dancer's Pose|4|http://www.pocketyoga.com/images/poses/lord_of_the_dance_R.png|green|1
+27|Balancing Series|Warrior 1|3|http://www.pocketyoga.com/images/poses/warrior_I_R.png|green|0
+28|Triangle Series|Triangle Pose|2.5|http://www.pocketyoga.com/images/poses/triangle_forward_R.png|green|1
+29|Triangle Series|Prasarita Pose|2.75|http://www.pocketyoga.com/images/poses/forward_bend_deep.png|green|0
+30|Hip Opener|Half Pigeon|2.5|http://www.pocketyoga.com/images/poses/pigeon_half_R.png|green|1
+31|Spine Strengthening Series|Cobra Pose|2.75|http://www.pocketyoga.com/images/poses/cobra.png|green|0
+32|Spine Strengthening Series|Floor Bow|2.5|http://www.pocketyoga.com/images/poses/bow.png|green|1
+33|Spine Strengthening Series|Camel Pose|2.25|http://www.pocketyoga.com/images/poses/camel.png|green|0
+34|Spine Strengthening Series|Bridge Pose|2.5|http://www.pocketyoga.com/images/poses/bridge.png|green|1
+35|Spine Strengthening Series|Reclined Bound Angle Pose|2.5|http://www.pocketyoga.com/images/poses/supine_bound_angle.png|green|0
+36|Forward Fold|Seated Forward Fold|2.5|http://www.pocketyoga.com/images/poses/seated_forward_bend.png|green|1
+37|Surrender Series|Happy Baby Pose|2.25|http://www.pocketyoga.com/images/poses/blissful_baby.png|green|0
+38|Surrender Series|Supine Twist|2.5|http://www.pocketyoga.com/images/poses/supine_spinal_twist_R.png|green|1
+39|Surrender Series|Savasana|2.5|http://www.pocketyoga.com/images/poses/corpse.png|green|0
+40|Surrender Series|Namaste|2.5|http://www.pocketyoga.com/images/poses/easy.png|green|0
